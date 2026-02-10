@@ -66,27 +66,6 @@
 
 ---
 
-## ⚡ GitHub Stats
-
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Moreira-Valverde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Moreira-Valverde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Moreira-Valverde/Gabriel-Moreira-Valverde/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
 ## 📬 Contato
 
 <div align="center">
