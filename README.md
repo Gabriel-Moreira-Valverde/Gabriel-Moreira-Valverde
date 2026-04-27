@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/Q68IbbK.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Banner Animado" />
-</div>
-
 <h1 align="center">Olá, eu sou Gabriel Moreira! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <div align="center">
