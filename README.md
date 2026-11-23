@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B3DFF,100:3F7BFF&height=190&section=header&text=Gabriel%20Moreira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Web%20%26%20Mobile%20%E2%80%A2%20Fundador%20da%20ArcLogich&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Gabriel Moreira" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B3DFF,100:3F7BFF&height=200&section=header&text=Gabriel%20Moreira&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Dev%20Web%20e%20Mobile%20-%20Fundador%20da%20ArcLogich&descSize=18&descAlignY=57" width="100%" alt="Gabriel Moreira" />
 </p>
 
 <p align="center">
